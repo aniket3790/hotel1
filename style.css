@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#hero{
+    height:80vh;
+    background-image: url('./hotel-1330841_1280.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.myheight{
+    height: 80vh;
+}
+
+.site-footer{
+    background-color: #131313;
+    color: aliceblue;
+}
